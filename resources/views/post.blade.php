@@ -12,9 +12,12 @@
 
 <body>
     <article>
-        <?= $post ?>
-        <a href="/">Go Back</a>
+        <h1><?= $post->title; ?></h1>
     </article>
+    <div>
+        <?= $post->body; ?>
+    </div>
+    <a href="/">Go Back</a>
 </body>
 
 </html>
