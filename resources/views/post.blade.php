@@ -1,6 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,11 +9,12 @@
     <!-- <script src="/app.js"></script> -->
     <title>My Blog</title>
 </head>
+
 <body>
     <article>
         <?= $post ?>
+        <a href="/">Go Back</a>
     </article>
-    <a href="/">Go Back</a>
-
 </body>
+
 </html>
