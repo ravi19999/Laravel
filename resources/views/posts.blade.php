@@ -11,7 +11,7 @@
 </head>
 <body>
     <article>
-        <h1> <a href="/post">Post 1</a> </h1>
+        <h1> <a href="/posts/my-first-post">Post 1</a> </h1>
 
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae ex quisquam assumenda voluptates velit quo in similique magnam quae doloremque, ab quod sint delectus fuga ratione neque? Ut, quae animi.
@@ -19,7 +19,7 @@
     </article>
     
     <article>
-        <h1><a href="/post">Post 2</a> </h1>
+        <h1><a href="/posts/my-second-post">Post 2</a> </h1>
 
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae ex quisquam assumenda voluptates velit quo in similique magnam quae doloremque, ab quod sint delectus fuga ratione neque? Ut, quae animi.
@@ -28,7 +28,7 @@
 
 
     <article>
-        <h1><a href="/post">Post 3</a> </h1>
+        <h1><a href="/posts/my-third-post">Post 3</a> </h1>
 
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae ex quisquam assumenda voluptates velit quo in similique magnam quae doloremque, ab quod sint delectus fuga ratione neque? Ut, quae animi.
